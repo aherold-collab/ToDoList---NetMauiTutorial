@@ -15,7 +15,7 @@
 
         <Image
             Grid.ColumnSpan="2"
-            BackgroundColor="Beige"
+            BackgroundColor="Transparent"
             Source="tasks_logo.png" />
 
         <Entry
